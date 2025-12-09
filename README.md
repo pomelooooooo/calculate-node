@@ -11,8 +11,8 @@ pnpm install
 ## Usage
 
 ```bash
-node-calc sum 1 2
-node-calc sub 1 2
-node-calc mul 1 2
-node-calc div 1 2
+node-calc sum <a> <b>
+node-calc sub <a> <b>
+node-calc mul <a> <b>
+node-calc div <a> <b>
 ```
